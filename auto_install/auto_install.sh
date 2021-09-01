@@ -1,4 +1,4 @@
-git clone https://github.com/RedAnonymusITA/ip-tools.git
+git clone https://github.com/RedAnonymusITA/ip_tools_GUI.git
 
 cd ip
 

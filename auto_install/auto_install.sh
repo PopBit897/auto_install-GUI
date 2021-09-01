@@ -2,6 +2,6 @@ git clone https://github.com/RedAnonymusITA/ip_tools_GUI.git
 
 cd ip
 
-sudo chmod a+x start.sh
+sudo chmod a+x open_for_linux.sh
 
-./start.sh
+./open_for_linux.sh
